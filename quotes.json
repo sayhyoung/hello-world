@@ -3,23 +3,23 @@
     "data":[
     {
         "author": "lee",
-        "quotes": "I like you."
+        "quotes": ["I like you."]
     },
     {
         "author": "kim",
-        "quotes": "You like me."
+        "quotes": ["You like me."]
     },
     {
         "author": "chin",
-        "quotes": "We are friends."
+        "quotes": ["We are friends."]
     },
     {
         "author": "cho",
-        "quotes": "I am in love."
+        "quotes": ["I am in love."]
     },
     {
         "author": "ahn",
-        "quotes": "I am happy."
+        "quotes": ["I am happy."]
     }
 ]
 }
